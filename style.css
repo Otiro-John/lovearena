@@ -437,7 +437,7 @@ p, a, button{
     width: 100%;
 }
 #lead .visit img{
-    width: 100%;
+    width: auto;
     height: 500px;
     margin-top: -36px;
 }
@@ -464,6 +464,7 @@ p, a, button{
     display: none;
 }
 }
+
 
 
 
