@@ -385,6 +385,9 @@ p, a, button{
     margin-top: 40%;
     font-size: 36px;
   }
+  .hero h1 br{
+    display:none;
+  }
   .hero .buttons{
     width: 100%;
     text-align: center;
@@ -461,3 +464,4 @@ p, a, button{
     display: none;
 }
 }
+
