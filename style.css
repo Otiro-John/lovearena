@@ -6,7 +6,9 @@
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 body {
   /* font-size: 16px;
   line-height: 1.5; */
@@ -464,6 +466,7 @@ p, a, button{
     display: none;
 }
 }
+
 
 
 
