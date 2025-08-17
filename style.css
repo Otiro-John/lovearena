@@ -416,7 +416,7 @@ p, a, button{
   }
   .visit img{
     width: 100%;
-    height: 400px;
+    height: auto;
 }
 .visit .text{
     width: 100%;
@@ -464,6 +464,7 @@ p, a, button{
     display: none;
 }
 }
+
 
 
 
