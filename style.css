@@ -458,12 +458,12 @@ p, a, button{
 }
 .footer{
     flex-direction:column;
-    flex-wrap: wrap;
     margin-top: 40px;
 }
 .end blockquote br{
     display: none;
 }
 }
+
 
 
